@@ -1,7 +1,5 @@
 # Yoga Feedback - EEG Meditation State Classification
-Maulika Patel
-
-Himanshu Mazumdar
+Maulika Patel and Himanshu Mazumdar
 
 **Proof of Knowledge (PoK)** for paper submission / reviewer evaluation.
 
@@ -71,5 +69,6 @@ python FeedbackYogaHsm.py
 
 **Himanshu S Mazumdar**  
 [GitHub @hsmazumdar](https://github.com/hsmazumdar)
+
 
 
